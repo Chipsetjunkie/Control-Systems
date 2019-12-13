@@ -1,4 +1,2 @@
-# Control-Systems
-
-A few projects covering basic control system techniques.
-
+Mouse tracking done using Kalman Filter
+![](mouse.gif)

@@ -1,4 +1,3 @@
-# Control-Systems
+Car trajectory tracking using kalman filter
 
-A few projects covering basic control system techniques.
-
+![](car.gif)
